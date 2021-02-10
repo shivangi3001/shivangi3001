@@ -28,6 +28,7 @@
 
 
 [<img align="left" alt="Shivangi Chaurasia | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />](https://twitter.com/shivangi30_)
+<br></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shivangi3001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

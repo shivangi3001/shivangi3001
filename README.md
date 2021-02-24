@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shivangi3001" alt="shivangi3001" /> </p> 
 
-- 🔭 I’m currently working on Frontend Web development 
+- 🔭 I’m currently working on Frontend Web development :)
 
 - 🌱 I’m currently learning Javascript and Backend Web development.
 

@@ -32,6 +32,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shivangi3001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangi3001&%22" alt="Shivangi" /></div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi3001&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
 <!-- **Language and tools to be added** -->

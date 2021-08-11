@@ -37,4 +37,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi3001&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
+<!-- Contribution graph --->
+<summary>💹: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=shivangi3001&theme=xcode" alt="Contribution Graph" align="center" />
+
 <!-- **Language and tools to be added** -->
+

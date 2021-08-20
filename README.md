@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on Frontend Web development :)
 
-- 🌱 I’m currently learning Javascript and Backend Web development.
+- 🌱 I’m currently learning Backend Web development.
 
 - 💬 Ask me about **Python, C, C++, HTML, CSS, SQL, R programming**
 
-- 👯 I’m looking to collaborate on Frontend Web development projects. 
+- 👯 I’m looking to collaborate on ReactJs based Frontend Web development projects. 
 
 - 🤔 I’m looking for help with backend web development and web hosting.
 
 - 📫 Reach me at: **shivangichaurasia2000@gmail.com**
 
-- ⚡ Fun fact **I am currently working on android based project :p**
+- ⚡ Fun fact **I overthink even in my dreams**
 
 <!-- linkedin , hackerrank, gmail, twitter -->
 

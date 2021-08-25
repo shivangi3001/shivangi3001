@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning Backend Web development.
 
-- 💬 Ask me about **Python, C, C++, HTML, CSS, SQL, R programming**
+- 💬 Ask me about **C, C++, Javascript, python HTML, CSS, SQL, R programming**
 
 - 👯 I’m looking to collaborate on ReactJs based Frontend Web development projects. 
 
-- 🤔 I’m looking for help with backend web development and web hosting.
+- 🤔 I’m looking for help with backend web development, freelancing opportunites and web hosting.
 
 - 📫 Reach me at: **shivangichaurasia2000@gmail.com**
 

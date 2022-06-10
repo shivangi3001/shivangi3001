@@ -4,8 +4,6 @@
 
 <p align="right">
 <img src="https://visitcount.itsvg.in/api?id=shivangi3001&icon=0&color=0" alt="shivangi3001" />
-
-<!-- [![](https://visitcount.itsvg.in/api?id=shivangi3001&icon=0&color=0)](https://visitcount.itsvg.in) -->
 </p>
 
 # 💫About Me :

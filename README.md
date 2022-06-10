@@ -48,20 +48,22 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivangi3001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivangi3001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shivangi3001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--<div align="center">-->
- <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangi3001&%22" alt="Shivangi" /></div>
+ <!-- <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangi3001&%22" alt="Shivangi" /></div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi3001&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangi3001&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"> --> -->
 
 <!-- Contribution graph --->
 <summary>💹: Contribution Graph </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=shivangi3001&theme=xcode" alt="Contribution Graph" align="center" />
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 

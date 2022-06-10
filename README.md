@@ -2,15 +2,19 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shivangi3001" alt="shivangi3001" /> </p> 
 
-- 🔭 I’m currently working on Frontend Web development :)
+---
+[![](https://visitcount.itsvg.in/api?id=shivangi3001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning Backend Web development.
+# 💫About Me :
+- 🔭 I am currently working on React-js based projects
 
-- 💬 Ask me about **C, C++, Javascript, python HTML, CSS, SQL, R programming**
+- 🌱 I am currently learning backend Web Development
 
-- 👯 I’m looking to collaborate on ReactJs based Frontend Web development projects. 
+- 💬 Ask me about anything, open to tech related discussions
 
-- 🤔 I’m looking for help with backend web development, freelancing opportunites and web hosting.
+- 👯 I am looking to collaborate on full stack web development related projects. 
+
+- 🤔 I am looking for help with MERN stack web development & cloud based technology.
 
 - 📫 Reach me at: **shivangichaurasia2000@gmail.com**
 

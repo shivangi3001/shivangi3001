@@ -28,7 +28,7 @@
 [<img align="left" alt="shivangi3001 | hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/shivangi3001)
 [<img align="left" alt="shivangi3001 | Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/shivangi30/)
 
-[<img align="left" alt="Shivangi Chaurasia | Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:shivangichaurasia2000@gmail.com)
+[<img align="left" alt="Shivangi Chaurasia | Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:shivangichaurasia2006@gmail.com)
 
 
 [<img align="left" alt="Shivangi Chaurasia | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />](https://twitter.com/shivangi30_)

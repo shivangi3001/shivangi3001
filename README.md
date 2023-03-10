@@ -61,8 +61,9 @@
 
 <!-- Contribution graph --->
 <summary>💹: Contribution Graph </summary>
+https://github-readme-activity-graph.cyclic.app/graph?username=shivangi3001&custom_title=Shivangi%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=shivangi3001&theme=xcode" alt="Contribution Graph" align="center" />
+<!--    <img src="https://activity-graph.herokuapp.com/graph?username=shivangi3001&theme=xcode" alt="Contribution Graph" align="center" /> -->
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

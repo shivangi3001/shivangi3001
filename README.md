@@ -43,7 +43,7 @@
 
 
 # 📊GitHub Stats :
-<img src="https://github-readme-stats-i66v.vercel.app/api?username=shivangi3001&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+[<img src="https://github-readme-stats-i66v.vercel.app/api?username=shivangi3001&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />]()
 
 <!-- https://camo.githubusercontent.com/ccb6cfaa5f904b355af3267cea0ab99cd29e4df48612128f38569b6b12c0505b/68747470733a2f2f6769746875622d726561646d652d73746174732d693636762e76657263656c2e6170702f6170693f757365726e616d653d4879756e436166652673686f775f69636f6e733d74727565267469746c655f636f6c6f723d30303739666126746578745f636f6c6f723d3030373966612669636f6e636f6c6f723d30303739666126686964655f626f726465723d747275652662675f636f6c6f723d30303030303026626f726465725f7261646975733d3026636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565 -->
 

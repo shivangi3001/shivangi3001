@@ -17,8 +17,6 @@
 
 - 🤔 I am looking for help with MERN stack web development & cloud based technology.
 
-- 📫 Reach me at: **shivangichaurasia2006@gmail.com**
-
 - ⚡ Fun fact **I overthink even in my dreams**
 
 <!-- linkedin , hackerrank, gmail, twitter -->
